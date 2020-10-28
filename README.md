@@ -2,17 +2,17 @@
 	Hi, there!
 </h1>
 <p align="center">
-
 	<img src="https://raw.githubusercontent.com/lucasemn1/lucasemn1/main/imgs/github_background.jpg" width="400" style="border-radius: 10px;"/>
 </p>
 
 <p align="center">
 My name is Lucas and an adventurer in the world of technology. I love programming and I'm fascinated by innovative ideas.
+</p>
 
-
-<i>Lucas Emanuel Nascimento Nóbrega Dias</i>
-	lucasnobrega.js@gmail.com
-<b>Developer • computer technician</b>
+<p align="center">
+<i>Lucas Emanuel Nascimento Nóbrega Dias</i><br/>
+	lucasnobrega.js@gmail.com<br/>
+<b>Developer • computer technician</b><br/>
 </p>
 
 <p align="center">
