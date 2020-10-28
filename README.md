@@ -1,40 +1,31 @@
-<div 
-	style="
-		width: 100%;
-		height: 400px; 
-		background-image: url('https://github.com/lucasemn1/lucasemn1/blob/main/imgs/github_background.jpg?raw=true');
-		background-repeat: none;
-		background-size: 100%;
-		background-position: center;
-		color: #ffffff;
-		padding: 0 20px;
-		border-radius: 20px;
-">
-	<h1 style="border: none; margin: 0;">
-		Lucas Nóbrega 
-	</h1>
-	<h2 style="border: none; margin-top: -40px; font-size: 18px;">
-		Desenvolvedor • Técnico em informática
-	</h2>
+<h1 align="center">
+	Hi, there!
+</h1>
+<p align="center">
+
+	<img src="https://raw.githubusercontent.com/lucasemn1/lucasemn1/main/imgs/github_background.jpg" width="400" style="border-radius: 10px;"/>
+</p>
+
+<p align="center">
+My name is Lucas and an adventurer in the world of technology. I love programming and I'm fascinated by innovative ideas.
+
+
+<i>Lucas Emanuel Nascimento Nóbrega Dias</i>
+	lucasnobrega.js@gmail.com
+<b>Developer • computer technician</b>
+</p>
+
+<p align="center">
+	![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-emn//)
 	
-	<p style="width: 55%;">
-		Programador, técnico em Informática pelo Instituto Federal do Rio Grande do Norte (IFRN) e apaixonado por tecnologia e inovação 🚀❤️.
-	</p>
-	
-	<a 
-		href="#"
-		style="
-			background-color:  #20358c;
-			padding: 5px 10px;
-			border-radius: 5px;
-			display: flex;
-			align-items: center;
-			justify-content: space-between;
-			width: 140px;
-			border: 1px solid #ffffff;
-			color: #ffffff;
-		"
-	>	<img src="https://github.com/lucasemn1/lucasemn1/blob/main/imgs/linkedin.png?raw=true" style="width: 15px; height: 15px;">	Meu Linkedin	</a>
-	</div>
-	</h2>
-</div>
+</p>
+
+------------
+<a href="#">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasemn1&show_icons=true&theme=blueberry" alt="Lucas's github stats" />
+</a>
+
+<a href="#">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasemn1&layout=compact&theme=blueberry" />
+</a>
+------------
