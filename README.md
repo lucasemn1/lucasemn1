@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-My name is Lucas and an adventurer in the world of technology. I love programming and I'm fascinated by innovative ideas.
+My name is Lucas and an adventurer in the world of technology. I love programming and I'm fascinated by innovative ideas 🚀❤️.
 </p>
 
 <p align="center">
@@ -14,6 +14,9 @@ My name is Lucas and an adventurer in the world of technology. I love programmin
 	lucasnobrega.js@gmail.com<br/>
 	<b>Developer • computer technician</b><br/>
 </p>
+
+<hr/>
+<p>Would you like to talk with me? Contact!</p>
 
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-emn//)
 
