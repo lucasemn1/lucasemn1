@@ -10,14 +10,13 @@ My name is Lucas and an adventurer in the world of technology. I love programmin
 </p>
 
 <p align="center">
-<i>Lucas Emanuel Nascimento Nóbrega Dias</i><br/>
+	<i>Lucas Emanuel Nascimento Nóbrega Dias</i><br/>
 	lucasnobrega.js@gmail.com<br/>
-<b>Developer • computer technician</b><br/>
+	<b>Developer • computer technician</b><br/>
 </p>
 
 <p align="center">
 	![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-emn//)
-	
 </p>
 
 ------------
