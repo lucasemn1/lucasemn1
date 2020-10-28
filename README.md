@@ -15,9 +15,7 @@ My name is Lucas and an adventurer in the world of technology. I love programmin
 	<b>Developer • computer technician</b><br/>
 </p>
 
-<p align="center">
-	![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-emn//)
-</p>
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-emn//)
 
 ------------
 <a href="#">
