@@ -16,11 +16,7 @@ My name is Lucas and an adventurer in the world of technology. I love programmin
 </p>
 
 <hr/>
-<p>Would you like to talk with me? Contact!</p>
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-emn//)
-
-------------
 <a href="#">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasemn1&show_icons=true&theme=blueberry" alt="Lucas's github stats" />
 </a>
@@ -28,4 +24,8 @@ My name is Lucas and an adventurer in the world of technology. I love programmin
 <a href="#">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasemn1&layout=compact&theme=blueberry" />
 </a>
-------------
+
+<hr/>
+<p>Would you like to talk with me? Contact!</p>
+
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-emn//)
